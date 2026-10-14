@@ -22,3 +22,6 @@
 
 # Conflict Resolution
 
+## My Learning Journey
+
+I have successfully learned Git and GitHub basics!
